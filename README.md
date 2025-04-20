@@ -8,8 +8,8 @@ FakeBuster is a browser extension and web tool that detects deepfakes and misinf
 ## 🧰 Tech Stack
 
 ### Frontend:
-- React.js (SPA)
-- Tailwind CSS (Styling)
+- HTML
+- CSS(Styling)
 - JavaScript 
 
 ### Backend:
